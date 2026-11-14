@@ -24,3 +24,6 @@ def isPalindrome(s: str) -> bool:
         right -= 1
         
     return True
+
+
+print(isPalindrome("Race , Car"))
